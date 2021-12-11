@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# UI of This Drag And Drop Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Drap N Drop Project1](https://user-images.githubusercontent.com/63940752/145670377-60422a02-27b5-476e-97d9-23f1aa6db772.png)
+
+## File Uploaded can be seen in console
+![Drap N Drop Project](https://user-images.githubusercontent.com/63940752/145670400-bf91358b-fa5b-48bf-b85b-d7a3e93aa4ce.png)
+
 
 ## Available Scripts
 
